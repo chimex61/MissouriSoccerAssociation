@@ -1,2 +1,0 @@
-"# MissouriSoccerAssociation"
-"# Edited"
